@@ -1,80 +1,105 @@
 {
   "users": [
-    "1": {
-      "id": 1,
-      "persona": {
-        "name": "Raul",
+    {
+      "1": {
         "id": 1,
-        "lastname": "Miranda",
-        "isMan": true,
-        "datosSalud": {
+        "persona": {
+          "name": "Raul",
           "id": 1,
-          "dateOfBirth": "26-11-1995",
-          "age": 23
-        }
-      },
-      "email": "eduardo.miranda1595@gmail.com",
-      "password": "",
-      "recommendedCode": "",
-      "routineType": "tonificar",
-      "idFromSocials": "loremipsum12345",
-      "profilePhoto": "",
-      "urlProfilePhotoFromSocials": "https://bit.ly/2UBeZlJ"
+          "lastname": "Miranda",
+          "isMan": true,
+          "datosSalud": {
+            "id": 1,
+            "dateOfBirth": "26-11-1995",
+            "age": 23
+          }
+        },
+        "email": "eduardo.miranda1595@gmail.com",
+        "password": "",
+        "recommendedCode": "",
+        "routineType": "tonificar",
+        "idFromSocials": "loremipsum12345",
+        "profilePhoto": "",
+        "urlProfilePhotoFromSocials": "https://bit.ly/2UBeZlJ"
+      }
     },
-    "2": {
-      "id": 2,
-      "persona": {
-        "name": "Eduardo",
+    {
+      "2": {
         "id": 2,
-        "lastname": "Miranda",
-        "isMan": true,
-        "datosSalud": ""
-      },
-      "email": "lalo_sagitario.95@hotmail.es",
-      "password": "",
-      "recommendedCode": "",
-      "routineType": "",
-      "idFromSocials": "qwertyasdfg1234",
-      "profilePhoto": "",
-      "urlProfilePhotoFromSocials": ""
+        "persona": {
+          "name": "Eduardo",
+          "id": 2,
+          "lastname": "Miranda",
+          "isMan": true,
+          "datosSalud": ""
+        },
+        "email": "lalo_sagitario.95@hotmail.es",
+        "password": "",
+        "recommendedCode": "",
+        "routineType": "",
+        "idFromSocials": "qwertyasdfg1234",
+        "profilePhoto": "",
+        "urlProfilePhotoFromSocials": ""
+      }
     },
-    "3": {
-      "id": 3,
-      "persona": {
-        "name": "Lorem",
+    {
+      "3": {
         "id": 3,
-        "lastname": "Ipsum",
-        "isMan": true,
-        "datosSalud": ""
-      },
-      "email": "foo@example.com",
-      "password": "hello",
-      "recommendedCode": "",
-      "routineType": "",
-      "idFromSocials": "",
-      "profilePhoto": "",
-      "urlProfilePhotoFromSocials": ""
+        "persona": {
+          "name": "Lorem",
+          "id": 3,
+          "lastname": "Ipsum",
+          "isMan": true,
+          "datosSalud": ""
+        },
+        "email": "foo@example.com",
+        "password": "hello",
+        "recommendedCode": "",
+        "routineType": "",
+        "idFromSocials": "",
+        "profilePhoto": "",
+        "urlProfilePhotoFromSocials": ""
+      }
     },
-    "4": {
-      "id": 4,
-      "persona": "",
-      "email": "bar@example.com",
-      "password": "world",
-      "recommendedCode": "",
-      "routineType": "",
-      "idFromSocials": "",
-      "profilePhoto": "",
-      "urlProfilePhotoFromSocials": ""
+    {
+      "4": {
+        "id": 4,
+        "persona": "",
+        "email": "bar@example.com",
+        "password": "world",
+        "recommendedCode": "",
+        "routineType": "",
+        "idFromSocials": "",
+        "profilePhoto": "",
+        "urlProfilePhotoFromSocials": ""
+      }
     }
   ],
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
