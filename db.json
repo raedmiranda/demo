@@ -93,10 +93,6 @@
     {
       "code": "CP72170408",
       "active": false
-    },
-    {
-      "code": "AZ12345678",
-      "active": true
     }
   ],
   "posts": [
@@ -107,20 +103,11 @@
     {
       "id": 2,
       "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
       "body": "some comment",
       "postId": 1
     }
