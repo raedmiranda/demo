@@ -7,14 +7,18 @@
         "id": 1,
         "lastname": "Miranda",
         "isMan": true,
-        "datosSalud": ""
+        "datosSalud": {
+          "id": 1,
+          "dateOfBirth": "26-11-1995",
+          "age": 23
+        }
       },
       "email": "eduardo.miranda1595@gmail.com",
       "password": "",
       "code":"em700160",
       "recommendedCode": "",
       "routineType": "tonificar",
-      "idFromSocials": "loremipsum12345",
+      "idFromSocials": "114654476492387443459",
       "profilePhoto": "",
       "urlProfilePhotoFromSocials": "https://bit.ly/2UBeZlJ"
     },
@@ -51,7 +55,7 @@
       },
       "email": "foo@example.com",
       "password": "hello",
-      "code":"rm700160",
+      "code":"",
       "recommendedCode": "",
       "routineType": "",
       "idFromSocials": "",
@@ -63,6 +67,7 @@
       "persona": "",
       "email": "bar@example.com",
       "password": "world",
+      "code":"",
       "recommendedCode": "",
       "routineType": "",
       "idFromSocials": "",
