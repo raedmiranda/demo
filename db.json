@@ -85,6 +85,20 @@
       "title": "Perder Peso"
     }
   ],
+  "codes": [
+    {
+      "code": "RM70016022",
+      "active": true
+    },
+    {
+      "code": "CP72170408",
+      "active": false
+    },
+    {
+      "code": "AZ12345678",
+      "active": true
+    }
+  ],
   "posts": [
     {
       "id": 1,
