@@ -75,6 +75,16 @@
       "urlProfilePhotoFromSocials": ""
     }
   ],
+  "routineTypes": [
+    {
+      "id": 1,
+      "routineType": "Tonificar"
+    },
+    {
+      "id": 2,
+      "title": "Perder Peso"
+    }
+  ],
   "posts": [
     {
       "id": 1,
