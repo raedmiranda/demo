@@ -105,11 +105,12 @@
       "title": "Post 2"
     }
   ],
-  "comments": [
+  "personalTrainers": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "availability": "LUN: 09-11, 12-15, 18-21; MIE: 12-20; VIE: 09-12",
+      "resume": "I'm a individual passionate about fitness and I've knowledge of human physiology, exercise, safety and fitness assessment",
+      "userId": 1
     }
   ]
 }
