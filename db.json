@@ -3,46 +3,46 @@
     {
       "id": 1,
       "persona": {
-        "name": "Raul",
+        "name": "Eduardo",
         "id": 1,
         "lastname": "Miranda",
         "isMan": true,
         "datosSalud": {
           "id": 1,
-          "dateOfBirth": "26-11-1995",
+          "dateOfBirth": "26-01-1985",
           "age": 23
         }
       },
-      "email": "eduardo.miranda1595@gmail.com",
+      "email": "edu159@gmail.com",
       "password": "",
-      "code":"em700160",
+      "code":"em787160",
       "recommendedCode": "",
       "routineType": "tonificar",
       "idFromSocials": "114654476492387443459",
       "profilePhoto": "",
-      "urlProfilePhotoFromSocials": "https://bit.ly/2UBeZlJ"
+      "urlProfilePhotoFromSocials": "http://madrid.clubtres60.com/wp-content/uploads/2017/10/zona-alumno-tres60.jpg"
     },
     {
       "id": 2,
       "persona": {
         "name": "Raul",
         "id": 2,
-        "lastname": "Miranda Rios",
+        "lastname": "Shutterstock",
         "isMan": true,
         "datosSalud": {
           "id": 2,
-          "dateOfBirth": "26-11-1995",
+          "dateOfBirth": "16-8-1985",
           "age": 23
         }
       },
-      "email": "lalo_sagitario.95@hotmail.es",
+      "email": "lal@hotmail.es",
       "password": "",
       "code":"",
       "recommendedCode": "",
       "routineType": "",
       "idFromSocials": "2266178973434846",
       "profilePhoto": "",
-      "urlProfilePhotoFromSocials": "http://graph.facebook.com/2266178973434846/picture?type=large"
+      "urlProfilePhotoFromSocials": "https://image.shutterstock.com/image-vector/man-avatar-profile-picture-vector-260nw-229692004.jpg"
     },
     {
       "id": 3,
@@ -87,7 +87,7 @@
   ],
   "codes": [
     {
-      "code": "RM70016022",
+      "code": "RM70098765",
       "active": true
     },
     {
