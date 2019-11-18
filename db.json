@@ -58,112 +58,12 @@
             "descripcion": "Afghanistan"
         },
         {
-            "valor": "4",
-            "descripcion": "Albania"
-        },
-        {
-            "valor": "84",
-            "descripcion": "Guam"
-        },
-        {
-            "valor": "76",
-            "descripcion": "Guatemala"
-        },
-        {
-            "valor": "72",
-            "descripcion": "Guernsey"
-        },
-        {
-            "valor": "131",
-            "descripcion": "Maldives"
-        },
-        {
-            "valor": "173",
-            "descripcion": "Mali"
-        },
-        {
-            "valor": "115",
-            "descripcion": "Malta"
-        },
-        {
-            "valor": "74",
-            "descripcion": "Man"
-        },
-        {
-            "valor": "124",
-            "descripcion": "Marshall Islands"
-        },
-        {
             "valor": "123",
             "descripcion": "Mexico"
         },
         {
-            "valor": "68",
-            "descripcion": "Micronesia"
-        },
-        {
-            "valor": "122",
-            "descripcion": "Moldova"
-        },
-        {
-            "valor": "121",
-            "descripcion": "Monaco"
-        },
-        {
-            "valor": "127",
-            "descripcion": "Mongolia"
-        },
-        {
-            "valor": "126",
-            "descripcion": "Montenegro"
-        },
-        {
-            "valor": "128",
-            "descripcion": "Montserrat"
-        },
-        {
-            "valor": "116",
-            "descripcion": "Morocco"
-        },
-        {
-            "valor": "129",
-            "descripcion": "Mozambique"
-        },
-        {
-            "valor": "140",
-            "descripcion": "Nicaragua"
-        },
-        {
-            "valor": "174",
-            "descripcion": "Niger"
-        },
-        {
-            "valor": "225",
-            "descripcion": "Nigeria"
-        },
-        {
             "valor": "239",
             "descripcion": "Ninguno"
-        },
-        {
-            "valor": "147",
-            "descripcion": "Oman"
-        },
-        {
-            "valor": "153",
-            "descripcion": "Pakistan"
-        },
-        {
-            "valor": "150",
-            "descripcion": "Palau"
-        },
-        {
-            "valor": "149",
-            "descripcion": "Panama"
-        },
-        {
-            "valor": "155",
-            "descripcion": "Papua New Guinea"
         },
         {
             "valor": "157",
@@ -174,24 +74,8 @@
             "descripcion": "Peru"
         },
         {
-            "valor": "178",
-            "descripcion": "Philippines"
-        },
-        {
-            "valor": "215",
-            "descripcion": "United Arab Emirates"
-        },
-        {
-            "valor": "71",
-            "descripcion": "United Kingdom"
-        },
-        {
             "valor": "216",
             "descripcion": "United States"
-        },
-        {
-            "valor": "177",
-            "descripcion": "Uruguay"
         },
         {
             "valor": "238",
@@ -406,22 +290,6 @@
             "descripcion": "ANALISTA PROGRAMADOR"
         },
         {
-            "valor": "11",
-            "descripcion": "ANTROPOLOGÍA"
-        },
-        {
-            "valor": "58",
-            "descripcion": "EDUCACIÓN INICIAL"
-        },
-        {
-            "valor": "99",
-            "descripcion": "INGENIERIA DE MINAS"
-        },
-        {
-            "valor": "100",
-            "descripcion": "INGENIERIA DE PETROLEO"
-        },
-        {
             "valor": "101",
             "descripcion": "INGENIERIA DE SISTEMAS"
         },
@@ -436,10 +304,6 @@
         {
             "valor": "171",
             "descripcion": "PROGRAMADOR"
-        },
-        {
-            "valor": "172",
-            "descripcion": "PRÓTESIS DENTAL"
         },
         {
             "valor": "196",
@@ -706,44 +570,8 @@
             "descripcion": "Enero"
         },
         {
-            "valor": "2",
-            "descripcion": "Febrero"
-        },
-        {
-            "valor": "3",
-            "descripcion": "Marzo"
-        },
-        {
-            "valor": "4",
-            "descripcion": "Abril"
-        },
-        {
-            "valor": "5",
-            "descripcion": "Mayo"
-        },
-        {
-            "valor": "6",
-            "descripcion": "Junio"
-        },
-        {
             "valor": "7",
             "descripcion": "Julio"
-        },
-        {
-            "valor": "8",
-            "descripcion": "Agosto"
-        },
-        {
-            "valor": "9",
-            "descripcion": "Septiembre"
-        },
-        {
-            "valor": "10",
-            "descripcion": "Octubre"
-        },
-        {
-            "valor": "11",
-            "descripcion": "Noviembre"
         },
         {
             "valor": "12",
@@ -774,44 +602,8 @@
             "descripcion": "Enero"
         },
         {
-            "valor": "2",
-            "descripcion": "Febrero"
-        },
-        {
-            "valor": "3",
-            "descripcion": "Marzo"
-        },
-        {
-            "valor": "4",
-            "descripcion": "Abril"
-        },
-        {
-            "valor": "5",
-            "descripcion": "Mayo"
-        },
-        {
-            "valor": "6",
-            "descripcion": "Junio"
-        },
-        {
             "valor": "7",
             "descripcion": "Julio"
-        },
-        {
-            "valor": "8",
-            "descripcion": "Agosto"
-        },
-        {
-            "valor": "9",
-            "descripcion": "Septiembre"
-        },
-        {
-            "valor": "10",
-            "descripcion": "Octubre"
-        },
-        {
-            "valor": "11",
-            "descripcion": "Noviembre"
         },
         {
             "valor": "12",
